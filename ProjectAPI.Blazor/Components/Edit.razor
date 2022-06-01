@@ -1,0 +1,50 @@
+﻿@page "/EditProduct/{id:int}"
+@inject IService<Product> productService
+@inject IService<Category> categoryService
+
+<div style="border: 1px solid white; padding: 3em;">
+@if (Product != null)
+{
+    <EditForm Model="Product" OnValidSubmit="Save" class="">
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+<h1 class=" p-3 mb-3 bg-body rounded" style="text-align:center; color:black; font-weight:600; background-color:white;">Edit Product</h1>
+        <div>
+            <label style="  font-weight:500; font-size:1.7em; ">Name</label>
+            <InputText @bind-Value="Product.Name" class="form-control p-3 mb-3 bg-body rounded"></InputText>
+             <ValidationMessage For="()=>Product.Name" class="text-danger"></ValidationMessage>
+        </div>
+         <div>
+            <label style="  font-weight:500; font-size:1.7em; ">Details</label style="text-align:center; font-weight:500; font-size:1.7em; margin-top:1em; ">
+            <InputTextArea @bind-Value="Product.Details" class="form-control p-3 mb-3 bg-body rounded" style="height:7em;"></InputTextArea>
+             <ValidationMessage For="()=>Product.Details" class="text-danger"></ValidationMessage>
+        </div>
+        <div>
+            <label style="  font-weight:500; font-size:1.7em; ">Price</label style="text-align:center; font-weight:500; font-size:1.7em; margin-top:1em; ">
+            <InputNumber @bind-Value="Product.Price" class="form-control p-3 mb-3 bg-body rounded"></InputNumber>
+             <ValidationMessage For="()=>Product.Price" class="text-danger"></ValidationMessage>
+        </div>
+        <div>
+            <label style="  font-weight:500; font-size:1.7em; ">Image</label style="text-align:center; font-weight:500; font-size:1.7em; margin-top:1em; ">
+            <InputText @bind-Value="Product.Image" class="form-control p-3 mb-3 bg-body rounded"></InputText>
+            <ValidationMessage For="()=>Product.Image" class="text-danger"></ValidationMessage>
+        </div>
+        <div>
+            <label style="  font-weight:500; font-size:1.7em; ">Category</label style="text-align:center; font-weight:500; font-size:1.7em; margin-top:1em; ">
+            <InputSelect @bind-Value="Product.CategoryID" class="form-control p-3 mb-3 bg-body rounded">
+                @foreach (var item in Categories)
+                   {
+                       <option value="@item.ID">@item.Name</option>
+                   }
+            </InputSelect>
+             <ValidationMessage For="()=>Product.CategoryID" class="text-danger"></ValidationMessage>
+        </div>
+             <div>
+        <input type="submit" value="Update" class="btn btn-success" style="width:45%; background-color: darkgreen; color:white;">
+        <a href="\All-Products" class="btn btn-danger" style="width:45%; margin-left:5.5%;">Back to list</a>
+    </div>
+    </EditForm>
+}else
+{
+    <h3>Loading...</h3>
+}
+</div>

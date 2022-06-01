@@ -1,0 +1,33 @@
+﻿@page "/Product-Details/{id:int}"
+@inject  IService<Product> productService
+@if(Product!=null){
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <img class="img-fluid" src="/Images/@Product.Image">       
+        </div>
+        <div class="col-md-6" style="margin-top:4.5em;">
+            <h2>@Product.Name</h2>
+            <p class="mb-4"><h5>Description:</h5> @Product.Details</p>
+            <p class="mb-4">
+                <b>
+                   <h5>Price:</h5> @Product.Price.ToString("C")&nbsp;
+                </b>
+            </p>
+        <a href="\All-Products-User" class="btn" style="background-color: #060606e4; color:white;">Back to list</a>
+          @*  <div>
+                <button class="btn btn-success"
+                @onclick ="() => (AddToCart_Click(new CartItemToAddDto{
+                    CartId = HardCoded.CartId,
+                    ProductId = Product.Id,
+                    Qty = 1
+                }))"
+                ><b>Add to Cart</b></button>
+            </div>*@
+        </div>
+
+    </div>
+}
+else
+{
+    <h3>Loading...</h3>
+}

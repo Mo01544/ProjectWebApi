@@ -1,0 +1,23 @@
+﻿@page "/Category-Details/{id:int}"
+@inject IService<Category> categoryService
+@inject IService<Product> productService
+
+@if(Category!=null){
+    <h3 class="mb-5">@Category.Name</h3>
+        <div style="display:flex; flex-wrap:wrap;">
+    @foreach(var product in Products)
+    {
+        <div class="card" style="width: 15em; margin:auto;">
+  <img class="card-img-top" src="/Images/@product.Image" alt="Card image cap" style="height:10em;"/>
+  <div class="card-body">
+    <h2 class="card-title">@product.Name</h2>
+    <p class="card-text">Price: @product.Price</p>
+    <a href="\Product-Details\@product.ID" class="btn btn-primary" style="margin-left:4em;">Details</a>
+  </div>
+</div>
+    }
+    </div>
+
+}else{
+     <h3>Loading...</h3>
+}

@@ -1,0 +1,159 @@
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.exe
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.deps.json
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.runtimeconfig.json
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\ProjectWebAPI.DTO.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\ProjectWebAPI.DTO.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\scopedcss\bundle\Project.styles.css
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.csproj.CopyComplete
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\refint\Project.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\ref\Project.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Blazored.LocalStorage.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\appsettings.json
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.exe
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.deps.json
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.runtimeconfig.json
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.runtimeconfig.dev.json
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Blazored.LocalStorage.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Humanizer.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.JSInterop.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\ProjectWebAPI.DTO.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\ProjectWebAPI.DTO.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.csproj.AssemblyReference.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.AssemblyInfoInputs.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.AssemblyInfo.cs
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.csproj.CoreCompileInputs.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.MvcApplicationPartsAssemblyInfo.cs
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.MvcApplicationPartsAssemblyInfo.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\scopedcss\bundle\Project.styles.css
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\staticwebassets\Project.StaticWebAssets.Manifest.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.RazorTargetAssemblyInfo.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.csproj.CopyComplete
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\refint\Project.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\Project.genruntimeconfig.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\ref\Project.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\libman.json
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\Project.StaticWebAssets.xml
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\BlazorComponentUtilities.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\bin\Debug\net5.0\BlazorStrap.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI\obj\Debug\net5.0\staticwebassets\Project.StaticWebAssets.xml

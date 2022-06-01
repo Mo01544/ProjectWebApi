@@ -1,0 +1,28 @@
+﻿@page "/New-Category"
+@inject IService<Category> categoryService
+
+   <div style="border: 1px solid white; padding: 3em;">
+@if (Category != null)
+{
+    <EditForm Model="Category" OnValidSubmit="Add" >
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+<h1 class=" p-3 mb-3 bg-body rounded" style="text-align:center; color:black; font-weight:600; background-color:white;">Add New Category</h1>
+        <div>
+            <label style="  font-weight:500; font-size:1.7em;">Name</label>
+            <InputText @bind-Value="Category.Name" class="form-control  p-3 mb-3 bg-body rounded"></InputText>
+             <ValidationMessage For="()=>Category.Name" class="text-danger"></ValidationMessage>
+        </div>
+        <div>
+                   <label style="  font-weight:500; font-size:1.7em; ">Image</label>
+            <InputText @bind-Value="Category.Image" class="form-control  p-3 mb-3 bg-body rounded"/>
+    </div>
+        <div>
+        <input type="submit" value="Submit" class="btn btn-success" style="width:45%; background-color: darkgreen; color:white;">
+        <a href="\All-Categories" class="btn btn-danger" style="width:45%;  margin-left:5.5%;">Back to list</a>
+    </div>
+    </EditForm>
+}else
+{
+    <h3>Loading...</h3>
+}
+</div>

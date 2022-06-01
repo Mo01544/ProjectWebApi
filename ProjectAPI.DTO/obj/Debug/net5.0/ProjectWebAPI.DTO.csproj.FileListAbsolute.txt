@@ -1,0 +1,30 @@
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\bin\Debug\net5.0\ProjectWebAPI.DTO.deps.json
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\bin\Debug\net5.0\ProjectWebAPI.DTO.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\bin\Debug\net5.0\ProjectWebAPI.DTO.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.csproj.CopyComplete
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\refint\ProjectWebAPI.DTO.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ref\ProjectWebAPI.DTO.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\bin\Debug\net5.0\ProjectWebAPI.DTO.deps.json
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\bin\Debug\net5.0\ProjectWebAPI.DTO.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\bin\Debug\net5.0\ProjectWebAPI.DTO.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.csproj.AssemblyReference.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.AssemblyInfoInputs.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.AssemblyInfo.cs
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.csproj.CoreCompileInputs.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.csproj.CopyComplete
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\refint\ProjectWebAPI.DTO.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ProjectWebAPI.DTO.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.DTO\obj\Debug\net5.0\ref\ProjectWebAPI.DTO.dll

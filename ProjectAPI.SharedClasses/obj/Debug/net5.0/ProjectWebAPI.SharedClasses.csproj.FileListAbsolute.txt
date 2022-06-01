@@ -1,0 +1,24 @@
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.SharedClasses\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.deps.json
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.SharedClasses\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.SharedClasses\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\refint\ProjectWebAPI.SharedClasses.dll
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.pdb
+C:\Users\Administrator\Downloads\ProjectWebAPI-20220523T075347Z-001\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ref\ProjectWebAPI.SharedClasses.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.SharedClasses\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.deps.json
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.SharedClasses\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.SharedClasses\bin\Debug\net5.0\ProjectWebAPI.SharedClasses.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.csproj.AssemblyReference.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.AssemblyInfoInputs.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.AssemblyInfo.cs
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.csproj.CoreCompileInputs.cache
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\refint\ProjectWebAPI.SharedClasses.dll
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ProjectWebAPI.SharedClasses.pdb
+E:\laps\Web API\Project\ProjectWebAPI\ProjectWebAPI\ProjectWebAPI.SharedClasses\obj\Debug\net5.0\ref\ProjectWebAPI.SharedClasses.dll
